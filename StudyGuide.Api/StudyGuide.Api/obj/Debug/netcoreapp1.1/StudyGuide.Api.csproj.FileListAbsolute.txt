@@ -1,0 +1,11 @@
+C:\Projects\studyguide\studyguideapi\StudyGuide.Api\StudyGuide.Api\bin\Debug\netcoreapp1.1\StudyGuide.Api.deps.json
+C:\Projects\studyguide\studyguideapi\StudyGuide.Api\StudyGuide.Api\bin\Debug\netcoreapp1.1\StudyGuide.Api.runtimeconfig.json
+C:\Projects\studyguide\studyguideapi\StudyGuide.Api\StudyGuide.Api\bin\Debug\netcoreapp1.1\StudyGuide.Api.runtimeconfig.dev.json
+C:\Projects\studyguide\studyguideapi\StudyGuide.Api\StudyGuide.Api\bin\Debug\netcoreapp1.1\StudyGuide.Api.dll
+C:\Projects\studyguide\studyguideapi\StudyGuide.Api\StudyGuide.Api\bin\Debug\netcoreapp1.1\StudyGuide.Api.pdb
+C:\Projects\studyguide\studyguideapi\StudyGuide.Api\StudyGuide.Api\obj\Debug\netcoreapp1.1\StudyGuide.Api.csproj.CoreCompileInputs.cache
+C:\Projects\studyguide\studyguideapi\StudyGuide.Api\StudyGuide.Api\obj\Debug\netcoreapp1.1\StudyGuide.Api.AssemblyInfoInputs.cache
+C:\Projects\studyguide\studyguideapi\StudyGuide.Api\StudyGuide.Api\obj\Debug\netcoreapp1.1\StudyGuide.Api.AssemblyInfo.cs
+C:\Projects\studyguide\studyguideapi\StudyGuide.Api\StudyGuide.Api\obj\Debug\netcoreapp1.1\StudyGuide.Api.dll
+C:\Projects\studyguide\studyguideapi\StudyGuide.Api\StudyGuide.Api\obj\Debug\netcoreapp1.1\StudyGuide.Api.pdb
+C:\Projects\studyguide\studyguideapi\StudyGuide.Api\StudyGuide.Api\obj\Debug\netcoreapp1.1\StudyGuide.Api.csprojResolveAssemblyReference.cache
